@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Tic-Tac-Toe",
+  "description": "A sleek, responsive Tic-Tac-Toe game featuring solo AI battles, local two-player pass-and-play, procedural synth audio, and match stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
